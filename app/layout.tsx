@@ -1,5 +1,5 @@
 import "./globals.css";
-
+import Link from "next/link";
 import Footer from "../components/Footer";
 import NavBar from "../components/Navbar";
 

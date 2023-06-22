@@ -7,7 +7,6 @@ import CarCard from "@/components/CarCard";
 import { fuels, yearsOfProduction } from "@/constants";
 import ShowMore from "@/components/ShowMore";
 import { useEffect, useState } from "react";
-import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 
 export default function Home() {
